@@ -1,0 +1,15 @@
+.not-found-content {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.notFound {
+    font-size: 80px;
+}
+span {
+    color: red
+}
+p{
+    font-size: 20px;
+}

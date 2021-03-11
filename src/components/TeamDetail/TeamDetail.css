@@ -1,0 +1,82 @@
+.team-details {
+    background-color: #15151b;
+}
+.teams {
+    background-color: #2a2a3f;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 0px 0px 13px 13px;
+}
+
+.team-banner-img {
+    width: 400px;
+    height: 300px;
+    padding: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.banner-stadium {
+    width: 100%;
+    height: 300px;
+    position: absolute;
+}
+.team-full-details {
+    color: #fff;
+}
+.clube-details {
+    color: rgb(253, 182, 3);
+}
+.description {
+    color: #fff;
+    line-height: 28px;
+}
+footer {
+    padding: 10px;
+}
+.social-icons {
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+}
+.social-icons a {
+    padding: 10px;
+    font-size: 35px;
+    color: #fff;
+    transition: .7s ease-in-out;
+}
+.social-icons a:hover {
+    color: #6f6f96;
+    transition: .7s ease-in-out;
+}
+.footer-text {
+    text-align: center;
+    color: #fff;
+    padding-top: 20px;
+}
+
+.line {
+    width: 45px;
+    height: 5px;
+    background-color: #ff4500;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.line2 {
+    width: 25px;
+    height: 5px;
+    background-color: #ff4500;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.line3 {
+    width: 15px;
+    height: 5px;
+    background-color: #ff4500;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}

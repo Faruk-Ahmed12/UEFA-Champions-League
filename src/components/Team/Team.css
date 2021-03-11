@@ -1,0 +1,50 @@
+.cardBody {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #2a2a3f;
+    text-align: center;
+    width: 20rem;
+    box-shadow: 2px 2px 4px 2px #5d5d6b;
+}
+.cardImg {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    padding-top: 20px;
+}
+.sports {
+    color: #fff;
+}
+.card-title {
+    color: #fff;
+}
+
+/* Start 1199px css responsive  */
+@media (max-width: 1199px) {
+    .cardBody {
+        width: 18rem;
+    }
+}
+
+/* Start 767px css responsive  */
+@media (max-width: 767px) {
+    .cardBody {
+        width: 18rem;
+        margin-left: 100px;
+    }
+}
+/* Start 500px css responsive  */
+@media (max-width: 500px) {
+    .cardBody {
+        width: 15rem;
+        margin-left: 80px;
+    }
+}
+/* Start 400px css responsive  */
+@media (max-width: 400px) {
+    .cardBody {
+        width: 13rem;
+        margin-left: 42px;
+    }
+}
