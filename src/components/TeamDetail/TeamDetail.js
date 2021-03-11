@@ -48,9 +48,9 @@ const TeamDetail = () => {
                 <div className="row">
                     <div className="col-md-12">
                         <h2 className="clube-details">{strTeam} Club Details</h2>
-                        <div class="line"></div>
-                        <div class="line2"></div>
-                        <div class="line3"></div>
+                        <div className="line"></div>
+                        <div className="line2"></div>
+                        <div className="line3"></div>
                         <p className="description">{strDescriptionEN}</p>
                     </div>
                 </div>

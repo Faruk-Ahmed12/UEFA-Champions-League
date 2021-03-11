@@ -22,7 +22,7 @@ const Team = (props) => {
             <Card.Text>
             <p className="sports">Sports Type: {strSport}</p>
             </Card.Text>
-            <Button onClick={() => handleTeam(idTeam)}>Explore       <FontAwesomeIcon icon={faArrowRight} /> </Button>
+            <Button onClick={() => handleTeam(idTeam)}>Explore  <FontAwesomeIcon icon={faArrowRight} /> </Button>
         </Card.Body>
 </Card>
                     </div>
